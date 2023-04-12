@@ -1,0 +1,67 @@
+.header{
+    width: 100%;
+    background-color: #7E33E0;
+    height: 7vh;
+    display: flex;
+    color: white;
+}
+.child_header{
+    width: 20%;
+    height: 40px;
+    display: flex;
+    gap: 1rem;
+    margin-left: 10rem;
+}
+.message{
+    margin-top: 15px;
+    width: 13.33px;
+    height: 10.65px; 
+}
+p {
+    margin-top: 12px;
+    height: 16px;
+    font-size: small;
+    align-items: center;
+}
+.calling{
+    width: 20%;
+    height: 40px;
+    display: flex;
+    gap: 1rem;
+}
+.calling_icon{
+    width: 13.33px;
+    height: 13.33px;
+    margin-top: 1rem;
+}
+.headermenu{
+    width: 35%;
+    height: 40px;
+    display: flex;
+    margin-left: 15rem;
+}
+.downarrow{
+    width: 25.33px;
+    height: 13.33px;
+    margin-top: 1rem;
+}
+.login{
+    width: 25.33px;
+    height: 13.33px;
+    margin-top: 1rem;
+}
+.heart{
+    width: 25.33px;
+    height: 13.33px;
+    margin-top: 1rem;
+}
+.cart{
+margin-left: 1rem;
+    width: 12%;
+    height: 40px;
+}
+.cart_icon{
+    width: 25.33px;
+    height: 13.33px;
+    margin-top: 1rem;
+}
